@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportExportApp", "ImportExportApp.csproj", "{31795955-4508-4641-BBB1-023B399F5EDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31795955-4508-4641-BBB1-023B399F5EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31795955-4508-4641-BBB1-023B399F5EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31795955-4508-4641-BBB1-023B399F5EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31795955-4508-4641-BBB1-023B399F5EDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F222C7E-B079-4759-8E2E-9C0388A4C3DB}
+	EndGlobalSection
+EndGlobal
